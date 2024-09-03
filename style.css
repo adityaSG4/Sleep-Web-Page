@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.backgroundhomepage {
+    background-color: #03174c;
+}
+
+.homeuppercontainerimg {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png');
+    height: 350px;
+    background-size: cover;
+
+}
+
+.homeuppercontainertext {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    text-align: center;
+    padding: 40px;
+}
+
+.homelowercontainerimg {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png');
+    height: 29vh;
+    background-size: cover;
+    margin: 30px;
+}
+
+.homelowercontainertext {
+    font-family: "Bree Serif";
+    color: #ffe7bf;
+    padding: 50px;
+    font-weight: 500;
+}
+
+.homelowercontainerpara {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    text-align: center;
+    margin: 10px;
+}
+
+.button {
+    color: #ffffff;
+    background-color: #8e97fd;
+    border-radius: 20px;
+    border-width: 0px;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 5px;
+    width: 100px;
+    height: 30px;
+    margin-bottom: 19px;
+}
+
+.detailuppercontainerimg {
+    height: 45vh;
+    width: 100vw;
+}
+
+.lowercontainer {
+    margin: 15px;
+}
+
+.detaillowercontainerheadingtext {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.detaillowercontainerparatext {
+    color: #98a1bd;
+    font-family: "bree serif";
+}
+
+.detaillowercontainersubheadingtext {
+    color: #ffffff;
+    font-family: "bree serif";
+}
+
+.img {
+    height: 15vh;
+
+}
+
+.Related-container {
+    margin-right: 20px;
+}
